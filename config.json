@@ -2,7 +2,7 @@
 	"ip":"Kaidoku.aternos.me",
 	"port": "60714",
 	"name": "bot1234vanev",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
