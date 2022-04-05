@@ -1,9 +1,9 @@
 {
-	"ip":"Jojolandtu.aternos.me",
-	"port": "37752",
+	"ip":"Kaidoku.aternos.me",
+	"port": "60714",
 	"name": "bot1234vanev",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
