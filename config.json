@@ -1,9 +1,9 @@
 {
 	"ip":"Yusufrmdn.aternos.me",
 	"port": "62786",
-	"name": "ucupbotnibang1",
+	"name": "ucupbotnib1",
 	"auto-night-skip":"true",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
