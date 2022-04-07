@@ -64,7 +64,7 @@ bot.on('time', function(time) {
 	if(bot.time.timeOfDay >= 13000){
 	bot.chat('/time set day')
         bot.chat('/op yusufganzni')
-        bot.chat('/op yusufganzni')
+        bot.chat('/op .yusufganzni')
 	}}
     if (connected <1) {
         return;
