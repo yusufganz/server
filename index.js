@@ -63,8 +63,7 @@ bot.on('time', function(time) {
 	if(nightskip == "true"){
 	if(bot.time.timeOfDay >= 13000){
 	bot.chat('/time set day')
-        bot.chat('/op yusufganzni')
-        bot.chat('/op .yusufganzni')
+        bot.chat('Waktu Berhasil Di ubah ke pagi')
 	}}
     if (connected <1) {
         return;
