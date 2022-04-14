@@ -2,7 +2,7 @@
 	"ip":"SERVERMCT.aternos.me",
 	"port": "39587",
 	"name": "ohayogozaimaaag"
-	"auto-night-skip":"true",
+	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
